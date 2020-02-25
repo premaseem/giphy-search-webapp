@@ -3,14 +3,13 @@ This is a full stack / web application which enables users to register, login an
 
 ## Requirements: 
 
-### Design and implement a web application that allows a user to search for and save animated GIFs to a user profile using the GIPHY API. 
+Design and implement a web application that allows a user to search for and save animated GIFs to a user profile using the GIPHY API. <br/>
 
-### Provide users with the ability to register and login to your application, as well as the ability to save and view their favorite GIFs to their profile. Also provide the user with the ability to categorize these saved GIFs(ex: funny, animals, etc.). 
+Provide users with the ability to register and login to your application, as well as the ability to save and view their favorite GIFs to their profile. Also provide the user with the ability to categorize these saved GIFs(ex: funny, animals, etc.). <br/>
 
-### User data should be stored in a database. 
+User data should be stored in a database. <br/>
 
-### Basic application security practices
-should be implemented (OWASP Top 9). GIFs available on your application should be limited to a G-Rating.
+Basic application security practices should be implemented (OWASP Top 9). GIFs available on your application should be limited to a G-Rating. <br/>
 
 ## Expectations: 
 Your solution should at least consist of website, API server and database components. You are also not limited to any specific programming languages, frameworks, or database solutions. However, modern tools and technologies would be preferred. 
